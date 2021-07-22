@@ -1,17 +1,10 @@
-# elecciones_bj
 # Nota metodológica
 
 Se presentan tres mapas temáticos de los *Resultados para la Jefatura Delegacional/Alcaldía Benito Juárez* de los procesos ordinarios locales de 2015, 2018 y 2021; para la elaboración de los mapas se utilizaron las Estadísticas de las elecciones de 2015 y 2018, y los resultados del Sistema de Cómputos Distritales y de Demarcación 2021 del [Instituto Electoral de la Ciudad de México](https://www.iecm.mx).
 
 Los datos originales descargados del IECM fueron procesados para obtener los primeros lugares por sección electoral y los margenes de victoria de cada fuerza política, así como los porcentajes de votación de cada partido político y coalición. Además, se obtuvo el porcentaje de participación electoral a nivel sección.
 
-Los datos originales y procesados se pueden descargar dándo click en el enlace de cada proceso electoral.
-
-|              Originales              |              Procesados              |
-| :----------------------------------: | :----------------------------------: |
-| [Elección Ordinaria Local de 2015]() | [Elección Ordinaria Local de 2015]() |
-| [Elección Ordinaria Local de 2018]() | [Elección Ordinaria Local de 2018]() |
-| [Elección Ordinaria Local de 2021]() | [Elección Ordinaria Local de 2021]() |
+Los datos originales y procesados se pueden descargar dándo click [aquí](https://github.com/pptrrns/elecciones_bj/archive/refs/heads/pptrrns.zip).
 
 ## Productos (Mapas)
 
@@ -202,14 +195,6 @@ La gama cromática seleccionada para cada partido es la siguiente:
 
   *Gama cromática:* `#f3cbd3, #eaa9bd, #dd88ac, #ca699d, #b14d8e, #91357d, #6c2167`
 
-### Descargas
-
-Se pueden descargar los mapas  terminados dándo click aquí:
-
-* [Resultados BJ 2015]()
-* [Resultados BJ 2018]()
-* [Resultados BJ 2021]()
-
 ## Autor
 
 José Á. Torrens Hernández, 2021. [**@pptrrns**](https://twitter.com/pptrrns)
@@ -222,4 +207,4 @@ pptrrns@gmail.com
 
 © [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-© [OpenStreetMap](http://www.openstreetmap.org/copyright)
+© [OpenStreetMap
